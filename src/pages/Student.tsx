@@ -13,6 +13,13 @@ const dishes = [
   { id: 3, name: "Margherita Pizza", price: 280, image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=300&h=200&fit=crop" },
   { id: 4, name: "Veg Manchurian", price: 180, image: "https://images.unsplash.com/photo-1626804475297-41608ea09aeb?w=300&h=200&fit=crop" },
   { id: 5, name: "Chicken Burger", price: 200, image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop" },
+  { id: 6, name: "Butter Chicken", price: 240, image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=300&h=200&fit=crop" },
+  { id: 7, name: "Pepperoni Pizza", price: 340, image: "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=300&h=200&fit=crop" },
+  { id: 8, name: "Hakka Noodles", price: 170, image: "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=300&h=200&fit=crop" },
+  { id: 9, name: "Masala Dosa", price: 120, image: "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=300&h=200&fit=crop" },
+  { id: 10, name: "Pasta Alfredo", price: 260, image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=300&h=200&fit=crop" },
+  { id: 11, name: "Tandoori Chicken", price: 250, image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=300&h=200&fit=crop" },
+  { id: 12, name: "Momos (Steamed)", price: 120, image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=300&h=200&fit=crop" },
 ];
 
 const Student = () => {
